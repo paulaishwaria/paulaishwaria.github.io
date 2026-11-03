@@ -1,4 +1,4 @@
-# Paula Aishwaria — Portfolio website
+# Aishwaria Paul — Portfolio website
 
 This is a starter portfolio website for GitHub Pages.
 
